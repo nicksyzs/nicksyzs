@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A665&random=false&width=435&lines=Ol%C3%A1%2C+me+chamo+Nicolas!;Estudando+programa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=nicksyzs&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=NICOLAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=nicksyzs&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A04E&random=false&width=435&lines=Atualmente+estudando)](https://git.io/typing-svg)
 
