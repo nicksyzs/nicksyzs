@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Nick)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Nick</h1>
+<p align="left"> <a href="https://twitter.com/nicksywq" target="blank"><img src="https://img.shields.io/twitter/follow/nicksywq?logo=twitter&style=for-the-badge" alt="nicksywq" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/nicksywq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicksywq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
